@@ -1,5 +1,22 @@
+
 body {
     background-color:rgba(124, 131, 150, 0.322);
+    box-sizing:border-box;
+    margin: 0px;
+  
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+.top-bar{
+    display: ;
+    flex-direction: ;
+    justify-content: center;
+
+}
+.unordered1 {
+    display: flex;
 }
 
 .big.heading {
